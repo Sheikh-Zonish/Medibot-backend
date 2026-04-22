@@ -85,7 +85,7 @@ http://127.0.0.1:8000
 Therefore, the backend must be running before the frontend application is launched.
 
 Frontend repository:
-Sheikh-Zonish/MediBot
+https://github.com/Sheikh-Zonish/MediBot
 
 ---
 
