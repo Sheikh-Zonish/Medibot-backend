@@ -180,7 +180,29 @@ This backend was developed to support the functionality of the MediBot iOS appli
 * Database-driven medication and safety features
 * Integration between frontend and backend components
 
+
 ---
+
+## API Interface
+
+The backend exposes a RESTful API implemented using FastAPI. An interactive Swagger UI is automatically generated, allowing all endpoints to be explored and tested directly within the browser.
+
+<p align="center">
+  <img src="screenshots/api.png" width="900">
+</p>
+
+---
+
+## Backend Execution
+
+The FastAPI server runs locally and handles incoming API requests from the frontend application. The terminal output below demonstrates successful server startup and request handling, with HTTP 200 responses indicating correct operation.
+
+<p align="center">
+  <img src="screenshots/server.png" width="700">
+</p>
+
+---
+
 
 ## Author
 
